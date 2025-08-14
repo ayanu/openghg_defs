@@ -534,6 +534,16 @@
       "longitude": 144.69
     }
   },
+  "CGR": {
+    "AGAGE": {
+      "height": ["10m"],
+      "height_name": ["10magl"],
+      "long_name": "Capo Granitola station, Italy",
+      "height_station_masl": 5.0,
+      "latitude": 37.571111,
+      "longitude": 12.659722
+    }
+  },
   "CHL": {
     "EC": {
       "height": ["60m"],
@@ -808,6 +818,16 @@
       "latitude": 20.6992,
       "long_name": "Dongsha Island, Taiwan",
       "longitude": 116.7297
+    }
+  },
+  "DUE": {
+    "EMPA": {
+      "latitude": 47.4026,
+      "longitude": 8.612,
+      "height": ["20m"],
+      "height_name": ["20mgl"],
+      "height_station_masl": 430,
+      "long_name": "Dübendorf, Empa Campus"
     }
   },
   "DVV": {
@@ -1559,6 +1579,16 @@
       "longitude": -77.393
     }
   },
+  "IVG":{
+    "DECC": {
+      "height": ["100m","50m"],
+      "height_name": ["100magl","50magl"],
+      "height_station_masl": 108, 
+      "latitude": 56.48251,
+      "long_name": "Invergowrie, Perth and Kinross, Scotland, United Kingdom",
+      "longitude": -3.12145
+    }
+  },
   "IZA": {
     "UHei": {
       "height": ["10m"],
@@ -1577,6 +1607,16 @@
       "latitude": 28.309,
       "long_name": "Izana, Tenerife",
       "longitude": -16.499
+    }
+  },
+  "JBO": {
+    "DECC": {
+      "height": ["45m"],
+      "height_name": ["45magl"],
+      "height_station_masl": 77.0,
+      "latitude": 53.23528,
+      "long_name": "Jodrell Bank, United Kingdom",
+      "longitude": -2.30538
     }
   },
   "JFJ": {
@@ -1763,6 +1803,16 @@
       "long_name": "Lindenberg, Germany",
       "height": ["10m"],
       "height_name": ["10magl"]
+    }
+  },
+  "LMP": {
+    "ICOS": {
+      "latitude": 35.5181, 
+      "longitude": 12.6322,
+      "height_station_masl": 45,
+      "long_name": "Lampedusa, Italy",
+      "height": ["8m"],
+      "height_name": ["8magl"]
     }
   },
   "LHFT": {
@@ -2497,6 +2547,16 @@
       "longitude": 180.0
     }
   },
+  "PRS": {
+      "ICOS": {
+      "latitude": 45.9348,
+      "longitude": 7.7077,
+      "height_station_masl": 3480,
+      "height": ["10m"],
+      "height_name": ["10magl"],
+      "long_name": "Plateau Rosa"
+    }
+  },
   "PSA": {
     "NOAA": {
       "height": ["10m"],
@@ -2522,6 +2582,16 @@
       "long_name": "Point Arena, California, United States",
       "longitude": -123.7408
     }
+  },
+  "PUI": {
+    "ICOS":{
+      "latitude": 62.9096,
+      "longitude": 27.6549,
+      "height_station_masl": 232,
+      "height": ["84m"],
+      "height_name": ["84magl"],
+      "long_name": "Puijo"
+	}
   },
   "PUY": {
     "NOAA": {
@@ -2576,6 +2646,16 @@
       "latitude": 51.427582,
       "long_name": "Royal Holloway",
       "longitude": -0.56278
+    }
+  },
+  "ROC": {
+    "ICOS": {
+      "height_name": ["25magl", "80magl", "140magl"],
+      "height": ["25m", "80m", "140m"],
+      "height_station_masl": 363,
+      "latitude": 48.4133,
+      "long_name": "Roc'h Trédudon",
+      "longitude": -3.8895
     }
   },
   "RPB": {
@@ -2784,6 +2864,14 @@
     }
   },
   "SIS": {
+    "DECC": {
+      "height": ["2m"],
+      "height_name": ["2magl"],
+      "height_station_masl": 84.0,
+      "latitude": 60.1391,
+      "long_name": "Shetland Islands, Scotland",
+      "longitude": -1.1848
+    },
     "NOAA": {
       "latitude": 60.089,
       "longitude": -1.255,
@@ -2934,16 +3022,16 @@
       "longitude": 19.775,
       "height_station_masl": 235.0,
       "long_name": "Svartberget, Sweden",
-      "height": ["85m"],
+      "height": ["85m", "150"],
       "height_name": ["85magl"]
     },
     "ICOS": {
-      "latitude": 64.14,
-      "longitude": 19.46,
-      "height_station_masl": 235.0,
+      "latitude": 64.256,
+      "longitude": 19.775,
+      "height_station_masl": 269.0,
       "long_name": "Svartberget, Sweden",
-      "height": ["85m"],
-      "height_name": ["85magl"]
+      "height": ["85m", "150m"],
+      "height_name": ["85magl", "150magl"]
     }
   },
   "SYO": {
